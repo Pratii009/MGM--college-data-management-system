@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MGM--college-data-management-system/static/css/main.04652d6c.css",
+    "main.js": "/MGM--college-data-management-system/static/js/main.16110bb8.js",
+    "static/js/948.c04d0116.chunk.js": "/MGM--college-data-management-system/static/js/948.c04d0116.chunk.js",
+    "static/js/660.f53ecca2.chunk.js": "/MGM--college-data-management-system/static/js/660.f53ecca2.chunk.js",
+    "static/js/424.42d6c492.chunk.js": "/MGM--college-data-management-system/static/js/424.42d6c492.chunk.js",
+    "static/js/550.8657b6d5.chunk.js": "/MGM--college-data-management-system/static/js/550.8657b6d5.chunk.js",
+    "static/js/986.65c04d2c.chunk.js": "/MGM--college-data-management-system/static/js/986.65c04d2c.chunk.js",
+    "static/js/391.95c99936.chunk.js": "/MGM--college-data-management-system/static/js/391.95c99936.chunk.js",
+    "static/js/811.809868d3.chunk.js": "/MGM--college-data-management-system/static/js/811.809868d3.chunk.js",
+    "index.html": "/MGM--college-data-management-system/index.html",
+    "main.04652d6c.css.map": "/MGM--college-data-management-system/static/css/main.04652d6c.css.map",
+    "main.16110bb8.js.map": "/MGM--college-data-management-system/static/js/main.16110bb8.js.map",
+    "948.c04d0116.chunk.js.map": "/MGM--college-data-management-system/static/js/948.c04d0116.chunk.js.map",
+    "660.f53ecca2.chunk.js.map": "/MGM--college-data-management-system/static/js/660.f53ecca2.chunk.js.map",
+    "424.42d6c492.chunk.js.map": "/MGM--college-data-management-system/static/js/424.42d6c492.chunk.js.map",
+    "550.8657b6d5.chunk.js.map": "/MGM--college-data-management-system/static/js/550.8657b6d5.chunk.js.map",
+    "986.65c04d2c.chunk.js.map": "/MGM--college-data-management-system/static/js/986.65c04d2c.chunk.js.map",
+    "391.95c99936.chunk.js.map": "/MGM--college-data-management-system/static/js/391.95c99936.chunk.js.map",
+    "811.809868d3.chunk.js.map": "/MGM--college-data-management-system/static/js/811.809868d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04652d6c.css",
+    "static/js/main.16110bb8.js"
+  ]
+}
