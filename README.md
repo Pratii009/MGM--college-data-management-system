@@ -1,18 +1,11 @@
 
 
-### Teacher [staff]
-
+staff
 **username:** Delphine  
 **pwd:** Delphine123
 
-Teacher can add or edit
 
-- Notes
-- Attendance
-- Internal Marks
-- Time Schedule
-
-### HOD (Head of Department) [staff]
+ HOD 
 
 **username:** Moriah  
 **pwd:** Moriah123
@@ -26,9 +19,4 @@ HOD can also
 
 
 
-## Other Features
-
-- Profile
-- Dark Theme
-- Mobile Responsive
 
