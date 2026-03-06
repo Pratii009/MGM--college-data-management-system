@@ -1,6 +1,12 @@
 import { lazy, Suspense } from "react";
+// import {
+//   createBrowserRouter,
+//   createRoutesFromElements,
+//   Route,
+//   RouterProvider,
+// } from "react-router-dom";
 import {
-  createBrowserRouter,
+  createHashRouter,
   createRoutesFromElements,
   Route,
   RouterProvider,
@@ -42,7 +48,7 @@ const PaperForm = lazy(() => import("./Components/Forms/PaperForm"));
 const JoinPaper = lazy(() => import("./Components/Forms/JoinPaper"));
 
 function App() {
-  const router = createBrowserRouter(
+  const router = createHashRouter(
     createRoutesFromElements(
       <Route path="/" element={<AppLayout />} errorElement={<ErrorElement />}>
         <Route index element={<Login />} />
